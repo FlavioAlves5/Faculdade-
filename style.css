@@ -2,3 +2,38 @@ html, body {
   height: 100%;
   width: 100%;
 }
+#imglogo{
+    width: 150px;
+    border-radius: 50px;
+    border:3px solid red;
+    box-shadow: 20px 10px 10px gray
+    
+  /*  margin: 0 auto 0 auto;
+  display: block;*/
+  };
+  .menuLateral{
+    border: 3px solid green;
+  }
+  nav{
+    border: 2px solid green;
+  }
+  .center{
+    text-align: center;
+  }
+  .menu{
+    text-align: center;
+      
+  }
+  ul{
+    list-style-type: none;
+     border: 2px solid green;
+    border-radius: 10px;
+    
+  }
+  .itmenu{
+    display: inline-block;
+    padding: 5px 15px 5px 15px;
+  border: 1px solid blue;
+    border-radius: 10px;
+  }
+  
