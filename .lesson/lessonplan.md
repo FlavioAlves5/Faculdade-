@@ -18,10 +18,3 @@ def hello_world():
 ```
 
   
-  Include an image by placing it in the `assets` folder.
-
-  For example, here is the Replit logo:
-
-  ![alt text](assets/logo.png)
-  
-  
